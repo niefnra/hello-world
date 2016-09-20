@@ -1,2 +1,2 @@
-<?php echo "hello ho"; ?>
+<?php echo "hello"; ?>
 Enter file contents here
